@@ -1,0 +1,86 @@
+// Testimonials data for Hubris Minerals
+
+import { TestimonialData } from '../types';
+
+export const TESTIMONIALS: TestimonialData[] = [
+  {
+    id: 'anvika-roshin',
+    name: 'Anvika Roshin',
+    company: 'Gold Investments Ltd.',
+    message: 'Hubris Minerals has been our trusted partner for premium gold sourcing from the DRC. Their commitment to ethical mining practices and exceptional quality makes them stand out in the industry.',
+    rating: 5,
+    avatar: '/images/testimonials/anvika-roshin.jpg',
+  },
+  {
+    id: 'cayo-navarro',
+    name: 'Cayo Navarro',
+    company: 'Navarro Precious Metals',
+    message: 'The consistency and purity of gold products from Hubris Minerals is unmatched. We have been doing business for over 3 years with complete satisfaction.',
+    rating: 5,
+    avatar: '/images/testimonials/cayo-navarro.jpg',
+  },
+  {
+    id: 'elinor-vasthe',
+    name: 'Elinor Vasthe',
+    company: 'European Gold Trading',
+    message: 'Professional service, transparent processes, and reliable delivery. Hubris Minerals sets the standard for gold mining companies in Central Africa.',
+    rating: 5,
+    avatar: '/images/testimonials/elinor-vasthe.jpg',
+  },
+  {
+    id: 'hikario-sazen',
+    name: 'Hikario Sazen',
+    company: 'Asian Minerals Corporation',
+    message: 'Their expertise in gold extraction and refining processes is evident in every shipment. Highly recommended for serious gold buyers.',
+    rating: 5,
+    avatar: '/images/testimonials/hikario-sazen.jpg',
+  },
+  {
+    id: 'ivar-dmitryl',
+    name: 'Ivar Dmitryl',
+    company: 'Middle East Gold Exchange',
+    message: 'Hubris Minerals provides competitive pricing and maintains the highest standards of quality assurance. A reliable partner for gold trading.',
+    rating: 5,
+    avatar: '/images/testimonials/ivar-dmitryl.jpg',
+  },
+  {
+    id: 'jensen-wildr',
+    name: 'Jensen Wildr',
+    company: 'Nordic Mining Solutions',
+    message: 'Outstanding customer service and product quality. Their sustainable mining approach aligns with our corporate values.',
+    rating: 5,
+    avatar: '/images/testimonials/jensen-wildr.jpg',
+  },
+  {
+    id: 'liesel-vorn',
+    name: 'Liesel Vorn',
+    company: 'German Precious Metals GmbH',
+    message: 'The certification process and documentation provided by Hubris Minerals exceeds European compliance standards. Exceptional professionalism.',
+    rating: 5,
+    avatar: '/images/testimonials/liesel-vorn.jpg',
+  },
+  {
+    id: 'seyran-volat',
+    name: 'Seyran Volat',
+    company: 'Volat Investment Group',
+    message: 'Trust and reliability are paramount in gold trading. Hubris Minerals delivers on both fronts with consistent excellence.',
+    rating: 5,
+    avatar: '/images/testimonials/seyran-volat.jpg',
+  },
+  {
+    id: 'thalea-korinth',
+    name: 'Thalea Korinth',
+    company: 'Mediterranean Gold Traders',
+    message: 'Working with Hubris Minerals has been a game-changer for our business. Their direct-from-source approach ensures authenticity and value.',
+    rating: 5,
+    avatar: '/images/testimonials/thalea-korinth.jpg',
+  },
+  {
+    id: 'zelara-fonseca',
+    name: 'Zelara Fonseca',
+    company: 'South American Bullion Co.',
+    message: 'From initial inquiry to final delivery, Hubris Minerals maintains professionalism and transparency. Highly recommended for gold sourcing.',
+    rating: 5,
+    avatar: '/images/testimonials/zelara-fonseca.jpg',
+  },
+];
