@@ -1,0 +1,39 @@
+{
+  "name": "Hubris Minerals - Premium Gold Mining & Export from DRC",
+  "short_name": "Hubris Minerals",
+  "description": "Professional gold mining company operating in the Democratic Republic of Congo, specializing in premium gold products, ethical sourcing, and international quality standards.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F553B",
+  "theme_color": "#FFD700",
+  "orientation": "portrait-primary",
+  "categories": ["business", "mining", "gold", "export"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
